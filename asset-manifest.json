@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/banaoproject/static/css/main.ab874575.css",
+    "main.js": "/banaoproject/static/js/main.f4726a0d.js",
+    "index.html": "/banaoproject/index.html",
+    "main.ab874575.css.map": "/banaoproject/static/css/main.ab874575.css.map",
+    "main.f4726a0d.js.map": "/banaoproject/static/js/main.f4726a0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab874575.css",
+    "static/js/main.f4726a0d.js"
+  ]
+}
