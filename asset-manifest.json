@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Banaoproject/static/css/main.a1998acd.css",
-    "main.js": "/Banaoproject/static/js/main.9bb90334.js",
+    "main.css": "/Banaoproject/static/css/main.616f5eca.css",
+    "main.js": "/Banaoproject/static/js/main.84fa6cca.js",
     "index.html": "/Banaoproject/index.html",
-    "main.a1998acd.css.map": "/Banaoproject/static/css/main.a1998acd.css.map",
-    "main.9bb90334.js.map": "/Banaoproject/static/js/main.9bb90334.js.map"
+    "main.616f5eca.css.map": "/Banaoproject/static/css/main.616f5eca.css.map",
+    "main.84fa6cca.js.map": "/Banaoproject/static/js/main.84fa6cca.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1998acd.css",
-    "static/js/main.9bb90334.js"
+    "static/css/main.616f5eca.css",
+    "static/js/main.84fa6cca.js"
   ]
 }
